@@ -125,6 +125,27 @@
             <mxPoint x="-280" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OzUPKYNtT5b8IdLyXP9f-22" value="lokasi_studio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OzUPKYNtT5b8IdLyXP9f-23" value="id_lokasi_studio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OzUPKYNtT5b8IdLyXP9f-24" value="alamat_studio" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OzUPKYNtT5b8IdLyXP9f-25" value="no_telp" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OzUPKYNtT5b8IdLyXP9f-26" value="studio" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OzUPKYNtT5b8IdLyXP9f-27" value="id_studio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="750" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="OzUPKYNtT5b8IdLyXP9f-28" value="nama_studio" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="450" y="670" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
